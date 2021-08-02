@@ -2,7 +2,6 @@ numpy
 pandas
 scikit-learn
 flask_ngrok
-libglib2.0-0
 python3-opencv
 opencv-python
 pickleshare==0.7.5
