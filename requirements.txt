@@ -2,7 +2,8 @@
 Flask==1.1.2
 flask-ngrok==0.0.25
 
-
+numpy
+pandas
 json5==0.9.5
 
 Keras==2.4.3
