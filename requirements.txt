@@ -1,6 +1,7 @@
 numpy
 pandas
 scikit-learn
+cv2
 flask_ngrok
 Click==7.0
 Flask==1.1.1
