@@ -2,7 +2,7 @@ numpy
 pandas
 scikit-learn
 opencv-contrib-python
-opencv-python-headless==4.2.0.32
+opencv-python-headless==4.5.3.56
 pickleshare==0.7.5
 Click==7.0
 Flask==1.1.1
