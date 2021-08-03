@@ -1,7 +1,6 @@
 numpy
 pandas
 scikit-learn
-flask_ngrok
 opencv-contrib-python
 pickleshare==0.7.5
 Click==7.0
