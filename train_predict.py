@@ -6,7 +6,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 import extract13 as extract
 import categorize
-from google.colab.patches import cv2_imshow
+#from google.colab.patches import cv2_imshow
 
 
 
