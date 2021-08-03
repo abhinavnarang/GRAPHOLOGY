@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
 import math
-from google.colab.patches import cv2_imshow
+#from google.colab.patches import cv2_imshow
 #from matplotlib import pyplot as plt
 
 # please don't worry about these variables now
