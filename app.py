@@ -31,7 +31,7 @@ def main():
                 return render_template('index.html', result={}, error_msg='Invalid extension')
             uploaded_file.save(os.path.join(app.config['UPLOAD_FOLDER'],uploaded_file.filename))
             result = train_predict.predict_all(uploaded_file.filename)
-            return render_template('index.html', result=result, error_msg=error_msg, image= '/static/uploads/' + uploaded_file.filename)
+            return render_template('index.html', result=result, error_msg=error_msg, image= './static/uploads/' + uploaded_file.filename)
     return render_template('index.html',result={},error_msg=error_msg)
 
 if __name__ == '__main__':
