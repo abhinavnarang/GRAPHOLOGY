@@ -2,7 +2,7 @@ numpy
 pandas
 scikit-learn
 flask_ngrok
-opencv-python
+opencv-contrib-python
 pickleshare==0.7.5
 Click==7.0
 Flask==1.1.1
